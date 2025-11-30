@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # SSH User Setup Script
-# Usage: ./script.sh <username> [public_key] [ssh_port] [add_to_sudo]
+# Usage: ./create-user.sh <username> [public_key] [ssh_port] [add_to_sudo]
+# Repository: https://github.com/Inkrex-dev/inkrex-scripts
 
 set -e  # Exit on error
 

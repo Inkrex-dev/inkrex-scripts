@@ -3,6 +3,8 @@
 # I will make this a setup script with variables later on
 # For now I just don't want to keep writing this :)
 
+# Repository: https://github.com/Inkrex-dev/inkrex-scripts
+
 sudo apt update
 sudo apt install ca-certificates curl
 sudo install -m 0755 -d /etc/apt/keyrings
